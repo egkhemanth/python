@@ -1,7 +1,6 @@
 num = float(input(" "))
 if (a%2==0):
     print("even")
-elif :
+else :
     print("odd")
-else:
-    print("invalid")
+
